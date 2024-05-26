@@ -1,0 +1,78 @@
+{
+  "leftSideCardsData": [
+    {
+      "title": "Apple",
+      "image": "images/apple1.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "Banana",
+      "image": "images/banana1.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "Orange",
+      "image": "images/orange1.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "Pineapple",
+      "image": "images/pineapple1.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "Strawberry",
+      "image": "images/strawberry1.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "Watermelon",
+      "image": "images/watermelon1.png",
+      "isFlipped": false,
+      "isMatched": false
+    }
+  ],
+  "rightSideCardsData": [
+    {
+      "title": "A",
+      "matchWith": "Apple",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "B",
+      "matchWith": "Banana",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "O",
+      "matchWith": "Orange",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "P",
+      "matchWith": "Pineapple",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "S",
+      "matchWith": "Strawberry",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "title": "W",
+      "matchWith": "Watermelon",
+      "isFlipped": false,
+      "isMatched": false
+    }
+  ]
+}
